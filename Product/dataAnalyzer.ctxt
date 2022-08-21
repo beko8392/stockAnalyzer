@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=dataAnalyzer
+comment1.params=
+comment1.target=dataAnalyzer()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ hpeData\n
+comment2.params=filename
+comment2.target=java.util.ArrayList\ readDataFromFile(java.lang.String)
+comment2.text=\ \n\ Method\ to\ read\ in\ the\ csv\ File.\n
+comment3.params=dollarPrice
+comment3.target=double\ parsePrice(java.lang.String)
+comment4.params=
+comment4.target=void\ clear()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
